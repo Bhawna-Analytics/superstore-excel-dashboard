@@ -68,4 +68,4 @@ The objective is to understand how returns impact profitability across regions a
 
 Sales_Performance_Dashboard.xlsx – Interactive Excel dashboard
 
-Dashboard_Overview.png – Dashboard preview image
+Dashboard_Overview.png – Dashboard preview image 

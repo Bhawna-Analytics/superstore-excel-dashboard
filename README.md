@@ -12,7 +12,7 @@ The objective is to understand how returns impact profitability across regions a
 
 → Key Business Questions Answered
 
-Which regions contribute the most and least to overall profit?
-Which region has the highest return rate, and how does it affect profitability?
-Which product category experiences the highest returns?
-How can the business reduce return-driven profit loss?
+• Which regions contribute the most and least to overall profit?
+• Which region has the highest return rate, and how does it affect profitability?
+• Which product category experiences the highest returns?
+• How can the business reduce return-driven profit loss?

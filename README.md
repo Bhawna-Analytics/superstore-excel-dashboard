@@ -19,3 +19,18 @@ The objective is to understand how returns impact profitability across regions a
 • Which product category experiences the highest returns?
 
 • How can the business reduce return-driven profit loss?
+
+
+→ Dashboard Overview
+
+*The Excel dashboard includes*:
+
+• KPI summary: Total Orders, Sales, Profit, Profit Margin, Return Rate
+
+• Regional profit performance (excluding returns)
+
+• Return rate by region
+
+• Return rate by product category
+
+• Key insights and business recommendations

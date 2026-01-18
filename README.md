@@ -5,9 +5,10 @@ Interactive Excel dashboard analyzing sales, profit, and returns.
 
 
 
-# **Superstore Profitability & Return Analysis Dashboard (Excel)**
+**Superstore Profitability & Return Analysis Dashboard (Excel)**
 
-This project analyzes sales, profit, and return patterns in a retail superstore dataset using Microsoft Excel.
+This project analyzes sales, profit, and return patterns in a retail superstore dataset using Microsoft Excel. 
+
 The objective is to understand how returns impact profitability across regions and product categories and to derive actionable business insights. 
 
 → Key Business Questions Answered
@@ -42,4 +43,29 @@ The objective is to understand how returns impact profitability across regions a
 
 • Technology products show the highest return rate, suggesting post-purchase issues.
 
-• Central region consistently underperforms in profit contribution.
+• Central region consistently underperforms in profit contribution.  
+
+
+
+→ Business Recommendations
+
+• Investigate return drivers in the West (delivery issues, defects, expectation mismatch).
+
+• Improve product descriptions, quality checks, and post-purchase support for Technology.
+
+• Reassess pricing, discount strategy, and product mix in the Central region.   
+
+
+
+→ Tools Used
+
+• Microsoft Excel
+(Pivot Tables, Pivot Charts, Calculated Fields, Dashboard Design)  
+
+
+
+→ Files in This Repository
+
+Sales_Performance_Dashboard.xlsx – Interactive Excel dashboard
+
+Dashboard_Overview.png – Dashboard preview image

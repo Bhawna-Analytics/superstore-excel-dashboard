@@ -1,5 +1,7 @@
-# superstore-excel-dashboard
+# Superstore-excel-dashboard
 Interactive Excel dashboard analyzing sales, profit, and returns. 
+
+
 
 
 **Superstore Profitability & Return Analysis Dashboard (Excel)**

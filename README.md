@@ -22,7 +22,7 @@ The objective is to understand how returns impact profitability across regions a
 
 • How can the business reduce return-driven profit loss?
 
-
+---
 → Dashboard Overview
 
 *The Excel dashboard includes*:
@@ -37,7 +37,7 @@ The objective is to understand how returns impact profitability across regions a
 
 • Key insights and business recommendations  
 
-
+---
 → Key Insights
 
 • West is the highest profit region but also has the highest return rate, indicating operational or expectation gaps.
@@ -47,7 +47,7 @@ The objective is to understand how returns impact profitability across regions a
 • Central region consistently underperforms in profit contribution.  
 
 
-
+---
 → Business Recommendations
 
 • Investigate return drivers in the West (delivery issues, defects, expectation mismatch).
@@ -57,14 +57,14 @@ The objective is to understand how returns impact profitability across regions a
 • Reassess pricing, discount strategy, and product mix in the Central region.   
 
 
-
+---
 → Tools Used
 
 • Microsoft Excel
 (Pivot Tables, Pivot Charts, Calculated Fields, Dashboard Design)  
 
 
-
+---
 → Files in This Repository
 
 Sales_Performance_Dashboard.xlsx – Interactive Excel dashboard

@@ -4,6 +4,7 @@ Interactive Excel dashboard analyzing sales, profit, and returns.
 
 
 
+
 **Superstore Profitability & Return Analysis Dashboard (Excel)**
 
 This project analyzes sales, profit, and return patterns in a retail superstore dataset using Microsoft Excel.

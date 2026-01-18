@@ -33,4 +33,13 @@ The objective is to understand how returns impact profitability across regions a
 
 • Return rate by product category
 
-• Key insights and business recommendations
+• Key insights and business recommendations  
+
+
+→ Key Insights
+
+• West is the highest profit region but also has the highest return rate, indicating operational or expectation gaps.
+
+• Technology products show the highest return rate, suggesting post-purchase issues.
+
+• Central region consistently underperforms in profit contribution.
